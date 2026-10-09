@@ -6,7 +6,7 @@ Simulador de investimentos em Fundos Imobiliários desenvolvido com Excel.
 
 Este projeto foi desenvolvido como parte do curso de **Analista de Dados com Excel com auxílio de IA e Claude**, com o objetivo de construir uma ferramenta de simulação de investimentos em Fundos de Investimento Imobiliário (FIIs).
 
-A proposta é transformar uma planilha tradicional em uma ferramenta com aparência de aplicativo, permitindo que o usuário visualize projeções de patrimônio e dividendos a partir de parâmetros financeiros personalizados.
+A proposta é transformar uma planilha tradicional em uma ferramenta, permitindo que o usuário visualize projeções de patrimônio e dividendos a partir de parâmetros financeiros personalizados.
 
 O simulador utiliza fórmulas do Excel, intervalos nomeados e uma tabela de referência para automatizar cálculos e facilitar a análise de diferentes cenários de investimento.
 
